@@ -1,0 +1,1 @@
+k6 run -o influxdb=http://localhost:8086/db0 loadtest.js

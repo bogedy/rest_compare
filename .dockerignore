@@ -1,0 +1,5 @@
+*
+!tinybert-imdb/
+!python/
+!rust_actix/
+rust_actix/target/
